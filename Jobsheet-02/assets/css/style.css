@@ -337,7 +337,7 @@ form button[type="submit"] {
 form button[type="submit"]:hover { 
     background-color: #164869; 
 }
-/* ===== Footer ===== */ 
+/* ===== Footer .===== */ 
 footer { 
     text-align: center; 
     padding: 1.25rem; 
