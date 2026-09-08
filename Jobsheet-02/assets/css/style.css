@@ -124,6 +124,11 @@ td button:first-of-type {
     background-color: #f0ad4e; 
     color: #fff; 
 } 
+
+td button:nth-child(2) { 
+    background-color: #1d5b8a;
+    color: #fff; 
+}
   
 td button:last-of-type { 
     background-color: #d9534f; 
